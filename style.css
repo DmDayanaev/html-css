@@ -1,12 +1,12 @@
 body {
 	font-family: 'Arial', sans-serif;
 	font-weight: bold;
-	font-size: 16px;
+	font-size: 14px;
 	line-height: 20px;
 	width: auto;
 }
 main {
-	width: 1000px;
+	width: 90%;
 	margin: auto;
 	
 }
@@ -25,7 +25,7 @@ h3 {
 	
 }
 .left {
-	width: 340px;
+	width: 35%;
 	padding: 20px;
 	float: left;
 	background-color: #e6e6e6;
@@ -62,7 +62,8 @@ h3 {
 }
 
 .right {
-	margin-left: 350px;
+	margin-left: 36%;
+	padding: 15px;
 }
 .right__heading {
 	display: inline-block;
