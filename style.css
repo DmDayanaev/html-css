@@ -45,18 +45,18 @@ h3 {
 	margin-bottom: 3px;
 }
 .left__chart {
-	width: 280px;
+	width: 90%;
 	height: 20px;
 	background-color: #b8b8b8;
 	margin: 10px 0px;
 }
 .left__chart--chart-in {
-	width: 200px;
+	width: 75%;
 	height: 20px;
 	background-color: #335680;
 }
 .left__chart--chart-in-1 {
-	width: 150px;
+	width: 45%;
 	height: 20px;
 	background-color: #335680;
 }
